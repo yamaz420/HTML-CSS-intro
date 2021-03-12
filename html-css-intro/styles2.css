@@ -1,0 +1,16 @@
+.parent{
+    background-color: rgb(77, 77, 224);
+}
+.first-child{
+    background-color: rgb(57, 199, 57);
+}
+.second-child{
+    background-color: rgb(235, 88, 88);
+    /* position: fixed;
+    top: 200px;
+    left: 300px; */
+}
+.third-child{
+    background-color: rgb(228, 72, 228);
+    
+}
